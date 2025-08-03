@@ -70,8 +70,4 @@ This Tableau project presents an interactive dashboard built using the Superstor
 
 ---
 
-## 🔗 Author
-
-**Aravind**  
-[LinkedIn](https://www.linkedin.com/in/your-link) | [Tableau Public](https://public.tableau.com/app/profile/your-profile) | [GitHub Profile](https://github.com/yourusername)
 
